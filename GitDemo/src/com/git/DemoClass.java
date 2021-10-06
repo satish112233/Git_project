@@ -11,6 +11,7 @@ public class DemoClass
 	public void branch()
 	{
 		System.out.println("Branching code");
+		System.out.println("Main branch");
 	}
 	
 	public void branch2()
